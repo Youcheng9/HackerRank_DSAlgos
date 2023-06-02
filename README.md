@@ -1,2 +1,2 @@
 # HackerRank_DSAlgos
-A record of solved HackerRank problems
+A record of solved HackerRank problems.
