@@ -1,0 +1,29 @@
+#List of Data Structures and Algorithms.
+#The whole listing does not include all DS and Algos but the commonly used are down below.
+
+
+##########Data Structures:
+
+~Arrays
+~Linked Lists
+~Stacks
+~Queues
+~Trees (including Binary Trees, Binary Search Trees, AVL Trees, etc.)
+~Graphs (including Directed and Undirected Graphs, Weighted Graphs, etc.)
+~Hash Tables (or Hash Maps)
+~Heaps (including Binary Heaps and Priority Queues)
+~Tries (or Prefix Trees)
+~Disjoint Sets (or Union-Find)
+
+#########Algorithms:
+
+~Sorting Algorithms (e.g., Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort, Heap Sort)
+~Searching Algorithms (e.g., Linear Search, Binary Search)
+~Graph Traversal Algorithms (e.g., Depth-First Search (DFS), Breadth-First Search (BFS))
+~Graph Algorithms (e.g., Dijkstra's Algorithm, Bellman-Ford Algorithm, Kruskal's Algorithm, Prim's Algorithm)
+~Dynamic Programming (e.g., Fibonacci Series, Knapsack Problem)
+~Greedy Algorithms (e.g., Activity Selection Problem, Huffman Coding)
+~Divide and Conquer (e.g., Binary Search, Merge Sort)
+~Backtracking (e.g., N-Queens Problem, Sudoku Solver)
+~String Matching Algorithms (e.g., Naive String Matching, Knuth-Morris-Pratt Algorithm, Rabin-Karp Algorithm)
+~Computational Geometry Algorithms (e.g., Convex Hull, Line Intersection)
